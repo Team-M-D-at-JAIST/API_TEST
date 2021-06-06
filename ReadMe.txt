@@ -1,0 +1,2 @@
+invokeCotohaAPIはCOTOHA公式サイトのAPIを呼び出すプログラムです。
+APItest001は音声認識モジュールで認識した結果をCOTOHAのAPIで処理するプログラムです。
